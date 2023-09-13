@@ -1,0 +1,11 @@
+E:\All Files Folder\Simulation\Simulation-20221207T144345Z-001\Simulation\XYZ\Diffusion Process\2D Diffusion Process\Diffusion Process\bin\Debug\Diffusion Process.exe.config
+E:\All Files Folder\Simulation\Simulation-20221207T144345Z-001\Simulation\XYZ\Diffusion Process\2D Diffusion Process\Diffusion Process\bin\Debug\Diffusion Process.exe
+E:\All Files Folder\Simulation\Simulation-20221207T144345Z-001\Simulation\XYZ\Diffusion Process\2D Diffusion Process\Diffusion Process\bin\Debug\Diffusion Process.pdb
+E:\All Files Folder\Simulation\Simulation-20221207T144345Z-001\Simulation\XYZ\Diffusion Process\2D Diffusion Process\Diffusion Process\obj\Debug\Diffusion Process.csproj.AssemblyReference.cache
+E:\All Files Folder\Simulation\Simulation-20221207T144345Z-001\Simulation\XYZ\Diffusion Process\2D Diffusion Process\Diffusion Process\obj\Debug\Diffusion Process.csproj.SuggestedBindingRedirects.cache
+E:\All Files Folder\Simulation\Simulation-20221207T144345Z-001\Simulation\XYZ\Diffusion Process\2D Diffusion Process\Diffusion Process\obj\Debug\Diffusion_Process.Form1.resources
+E:\All Files Folder\Simulation\Simulation-20221207T144345Z-001\Simulation\XYZ\Diffusion Process\2D Diffusion Process\Diffusion Process\obj\Debug\Diffusion_Process.Properties.Resources.resources
+E:\All Files Folder\Simulation\Simulation-20221207T144345Z-001\Simulation\XYZ\Diffusion Process\2D Diffusion Process\Diffusion Process\obj\Debug\Diffusion Process.csproj.GenerateResource.cache
+E:\All Files Folder\Simulation\Simulation-20221207T144345Z-001\Simulation\XYZ\Diffusion Process\2D Diffusion Process\Diffusion Process\obj\Debug\Diffusion Process.csproj.CoreCompileInputs.cache
+E:\All Files Folder\Simulation\Simulation-20221207T144345Z-001\Simulation\XYZ\Diffusion Process\2D Diffusion Process\Diffusion Process\obj\Debug\Diffusion Process.exe
+E:\All Files Folder\Simulation\Simulation-20221207T144345Z-001\Simulation\XYZ\Diffusion Process\2D Diffusion Process\Diffusion Process\obj\Debug\Diffusion Process.pdb
